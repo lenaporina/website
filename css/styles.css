@@ -1,0 +1,150 @@
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin:0;
+
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.265rem;
+  line-height: 1;
+  margin: 20px auto 0;
+  padding-bottom: 20px;
+  position: relative;
+  text-align: center;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  margin-bottom: 30px;
+}
+
+.middle-container {
+margin:0;
+}
+
+.bottom-container {
+  background-color:#66BFBF;
+  height:70px;
+  padding: 50px 0 40px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+a {
+font-family: 'Montserrat', sans-serif;
+margin: 20px 10px;
+font-weight: bold;
+}
+a:hover{
+  color:#EAF6F6;
+}
+
+
+hr {
+  border-style: dotted hidden hidden;
+  width:5%;
+  border-width:7px;
+  color: #EAF6F6;
+  margin:50px auto;
+}
+p {
+  line-height: 2;
+}
+
+.bottom-cloud {
+  left: 350px;
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration:none;
+
+}
+
+.skill-row {
+  width:50%;
+  margin:50px auto 100px;
+  text-align: left;
+}
+
+.photography{
+  background-color: #E4F9F5;
+  border-radius: 50%;
+  float:left;
+  margin-right: 30px;
+  width:25%;
+
+}
+
+.workout{
+  background-color: #E4F9F5;
+  border-radius: 8px;
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.about-me{
+margin:auto;
+font-weight: bold;
+width:30%
+}
+
+.p-skills{
+  font-weight: bold
+}
+
+.contact-me{
+  font-weight: bold;
+  margin: 40px auto 60px;
+  text-align: center;
+  width:60%;
+}
+
+.profile-pic{
+  border-radius:300px;
+  border:none;
+}
+
+.btn {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  text-decoration: none;
+}
